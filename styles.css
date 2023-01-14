@@ -51,8 +51,10 @@ a{
 
 a:hover{
     
-    color: rgb(236, 114, 0);
-    box-shadow: 0 0 50px #01acfc;
+    color: rgb(11, 13, 14);
+    background: #39ff14;
+    font-style: oblique;
+    box-shadow: 0px 0px 65px #39ff14;
 }
 
 .para{
